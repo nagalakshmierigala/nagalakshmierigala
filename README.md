@@ -1,31 +1,24 @@
-👋 Hi there, I'm Nagalakshmi Reddy Erigala!
-🌟 About Me:
+# Welcome to My GitHub! 👋
+Hello, I'm Nagalakshmi Reddy Erigala, a dedicated MSBA graduate student specializing in Data Science at The University of Texas at Dallas. I'm passionate about harnessing the power of data to drive informed business decisions and foster innovation.
 
-🎓 Pursuing a Master's in Business Analytics with a major in Data Science at The University of Texas at Dallas.
-🌐 Extensive experience in Data Science and Business Analytics, with a proven track record in data-driven decision making.
-📈 Skilled in Python, R, SQL, and various data visualization tools like Tableau, Power BI, and Excel.
-🤝 Open to collaboration on projects involving data analytics, machine learning, or business intelligence.
-🚀 My Projects:
-1. SBA Loan Approval Analysis & Prediction (Machine Learning, Python-Jupyter)
-Executed a comprehensive analysis encompassing data preprocessing, feature engineering, and machine learning model training.
-Achieved a notable accuracy score and a maximum F1 score of 89% using Sklearn Logistic Regression and H2O-3 GLM models.
-View Project
-2. Driving Future Growth for FMCG Brand (R, Python, Tableau, PowerBI)
-Utilized 5 years of sales data and consumer trends to formulate a data-driven product roadmap.
-Validated strategic recommendations using hypothesis testing and regression analysis.
-View Project
-3. Customer Analysis (R, Excel, PowerBI)
-Analyzed the Super store Sales dataset, creating action-driven visualizations in Power BI.
-Secured third position in the UTD competition with my insights and visualizations.
-View Project
-💼 Professional Experience:
-Data Science Intern, Camping World, Chicago, Illinois (Jun 2023 - Present)
-Developed Power BI features, improved data management efficiency, and played a key role in database migration projects.
-Senior Analyst, Skylark Drones, Bangalore, India (May 2018 - Apr 2022)
-Innovated in drone technology, conducted spatial analysis, and managed large-scale GIS projects.
-🌱 I'm currently learning:
-Advanced techniques in machine learning and data visualization.
-Cloud technologies and their application in data science.
-📫 How to reach me:
-📧 Email: nagalakshmireddy9875@gmail.com
-🔗 LinkedIn: linkedin.com/in/nagalakshmi-reddy-erigala
+## 🚀 Professional Journey
+- **Current Engagement:** Enhancing my data science skills through a Data Science Internship at Camping World.
+- **Previous Experience:** Four years of enriching experience as a Senior GIS Analyst at Skylark Drones, where I leveraged geospatial data for complex problem-solving.
+- **Educational Foundation:** Began my journey with a B.Tech in Civil Engineering from the National Institute of Technology Karnataka, Surathkal.
+
+## 📈 Skills and Expertise
+- **Technical Proficiency:** SQL, R, Python, Snowflake, alongside experience with databases like Mongo DB, MySQL, and Snowflake.
+- **Tools Mastery:** ESRI ArcGIS Desktop, ArcGIS Online, Alteryx, PowerBI, Google Earth, Global Mapper, and MS Office.
+- **Areas of Interest:** Mathematics, Data Science, Business Intelligence, and Project Management.
+
+## 🌟 Projects and Achievements
+- **Capstone Project:** 'Retaining Entry-Level Employees' - a deep dive into employee retention strategies.
+- **Academic Projects:** Including 'SBA Loan Approval Analysis & Prediction' and 'Driving Future Growth for FMCG Brand'.
+- **Professional Contributions:** Effective utilization of data science techniques in my roles, contributing significantly to the organizations I've been part of.
+
+## 💼 Career Aspirations
+I am actively seeking challenging roles in data science to apply my skills in real-world scenarios. Open to collaborations that align with my passion for data-driven growth and innovation.
+
+## 📫 Connect with Me
+- **Email:** nagalakshmireddy9875@gmail.com
+- **LinkedIn:** [linkedin.com/in/nagalakshmi-reddy-erigala](https://www.linkedin.com/in/nagalakshmi-reddy-erigala/)
