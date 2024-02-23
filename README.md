@@ -30,8 +30,8 @@ I'm a data science enthusiast with a Master’s in Business Analytics from The U
 - Member of the Data Science Club and Infinity Lions Club at UT Dallas
 
 ## 📫 How to Reach Me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email:** nagalakshmireddy9875@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/nagalakshmi-reddy-erigala/
 
 ## 📝 Personal Mantra
 "Data is a precious thing and will last longer than the systems themselves." - Tim Berners-Lee
