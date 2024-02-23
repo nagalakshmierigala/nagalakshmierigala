@@ -1,4 +1,4 @@
-# Welcome to My GitHub! 👋
+# Welcome  👋
 Hello, I'm Nagalakshmi Reddy Erigala, a dedicated MSBA graduate student specializing in Data Science at The University of Texas at Dallas. I'm passionate about harnessing the power of data to drive informed business decisions and foster innovation.
 
 ## 🚀 Professional Journey
